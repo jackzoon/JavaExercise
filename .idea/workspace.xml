@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bcc4bda1-b344-47c5-8be9-becf2b770d55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -9,7 +29,239 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="ProjectId" id="1jJ5ROLLQNPezRezSIkjJRLNLfk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propDebugger" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Java2\JavaExercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test1">
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.halen.debug.Test1" />
+      <module name="JavaDemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.halen.debug.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.halen.debug.Test4" />
+      <module name="JavaDemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.halen.debug.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.halen.debug.Test6" />
+      <module name="JavaDemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.halen.debug.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.halen.debug.Test7" />
+      <module name="JavaDemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.halen.debug.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.halen.debug.Test8" />
+      <module name="JavaDemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.halen.debug.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Test8" />
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.Test7" />
+        <item itemvalue="Application.Test6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Halen\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bcc4bda1-b344-47c5-8be9-becf2b770d55" name="Default Changelist" comment="" />
+      <created>1603509344091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603509344091</updated>
+      <workItem from="1603509348079" duration="12152000" />
+      <workItem from="1604230739819" duration="5689000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1604232510354">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1604232510354" />
+    <state x="438" y="66" key="#xdebugger.evaluate" timestamp="1604230200769">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1604230200769" />
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1604073042041">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604073042041" />
+    <state width="1323" height="325" key="GridCell.Tab.0.bottom" timestamp="1604235024747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604235024747" />
+    <state width="1323" height="325" key="GridCell.Tab.0.center" timestamp="1604235024747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604235024747" />
+    <state width="1323" height="325" key="GridCell.Tab.0.left" timestamp="1604235024747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604235024747" />
+    <state width="1323" height="325" key="GridCell.Tab.0.right" timestamp="1604235024747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604235024747" />
+    <state width="1323" height="325" key="GridCell.Tab.1.bottom" timestamp="1604235024748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604235024748" />
+    <state width="1323" height="325" key="GridCell.Tab.1.center" timestamp="1604235024747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1604235024747" />
+    <state width="1323" height="325" key="GridCell.Tab.1.left" timestamp="1604235024747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1604235024747" />
+    <state width="1323" height="325" key="GridCell.Tab.1.right" timestamp="1604235024748">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="325" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604235024748" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1604234502501">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604234502501" />
+    <state x="227" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604233720618">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="227" y="93" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1604233720618" />
+    <state x="57" y="24" key="new project wizard" timestamp="1604072047419">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="57" y="24" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1604072047419" />
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup" timestamp="1604231831102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="672" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604231831102" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaDemo01/src/main/java/com/halen/debug/Test1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaDemo01/src/main/java/com/halen/debug/Test2.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaDemo01/src/main/java/com/halen/debug/Test3.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaDemo01/src/main/java/com/halen/debug/Test4.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaDemo01/src/main/java/com/halen/debug/Test4.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaDemo01/src/main/java/com/halen/debug/Test5.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <condition expression="i==300" language="JAVA" />
+          <url>file://$PROJECT_DIR$/JavaDemo01/src/main/java/com/halen/debug/Test6.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaDemo01/src/main/java/com/halen/debug/Test7.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaDemo01/src/main/java/com/halen/debug/Producer.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-defaults>
+        <breakpoint suspend="THREAD" type="java-line" />
+      </breakpoints-defaults>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="Thread.currentThread().getName()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
